@@ -1,2 +1,3 @@
 # bootcamp
-demo during git workshop on ncit
+demo during git and github workshop on ncit
+
